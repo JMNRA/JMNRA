@@ -1,12 +1,9 @@
-# Holaa 👋
 
-
-<br/>
+### <div align="center">Hola bb :D</div> 
 <div align="center">
 <img src="https://github.com/JMNRA/JMNRA/blob/main/gifs/prueba.gif" alt="prueba" />
-</div>
-<br/>
 
+</div>
 
 
 <!--

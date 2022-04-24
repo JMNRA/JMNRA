@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+<br/>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/gifs/prueba.gif" alt="prueba" />
+</div>
+<br/>
+
+
+
 <!--
 **JMNRA/JMNRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

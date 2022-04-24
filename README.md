@@ -3,7 +3,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/gifs/prueba.gif" alt="prueba" />
+<img src="https://github.com/JMNRA/JMNRA/blob/main/gifs/prueba.gif" alt="prueba" />
 </div>
 <br/>
 

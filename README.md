@@ -34,7 +34,5 @@ src="https://img.shields.io/twitter/follow/_JMNRA?logo=twitter&style=for-the-bad
 
 <a href="http://www.github.com/JMNRA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JMNRA&stroke=f97316&background=181824&ring=64748b&fire=64748b&currStreakNum=f97316&currStreakLabel=64748b&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="http://www.github.com/JMNRA"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JMNRA&bg_color=181824&color=f97316&line=ef4444&point=f97316&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/JMNRA" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMNRA&langs_count=10&title_color=64748b&text_color=f97316&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

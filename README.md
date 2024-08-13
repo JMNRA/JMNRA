@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header Image](https://your-header-image-url.com/image.jpg)
+![Header Image](https://pbs.twimg.com/profile_banners/1700775817/1474207667/1500x500)
 
 </div>
 
@@ -54,7 +54,6 @@ src="https://img.shields.io/twitter/follow/_JMNRA?logo=twitter&style=for-the-bad
 
 ---
 
-<b>GitHub Stats</b>
 
 <div align="center">
 <a href="http://www.github.com/JMNRA"><img src="https://github-readme-stats.vercel.app/api?username=JMNRA&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=f97316&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="JMNRA's GitHub stats" /></a>

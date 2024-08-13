@@ -1,14 +1,16 @@
-# <div align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" width="30px"> My name is Josue Medina</div>
-
 <div align="center">
 
 ![Header Image](https://pbs.twimg.com/profile_banners/1700775817/1474207667/1500x500)
 
 </div>
 
+# <div align="center">Hola <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" width="30px"> Mi nombre es Josue Medina</div>
+
+
+
 <div align="center">
 
-## IoT Developer
+## Desarrollador IoT Fullstack
 
 🌍 I'm based in Perú<br>
 🚀 I'm currently working on [Joyan](http://joyan.cloud)<br>

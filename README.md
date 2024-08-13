@@ -28,7 +28,7 @@ src="https://img.shields.io/twitter/follow/_JMNRA?logo=twitter&style=for-the-bad
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>GitHub Stats</b>
 
 <a href="http://www.github.com/JMNRA"><img src="https://github-readme-stats.vercel.app/api?username=JMNRA&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=f97316&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="JMNRA's GitHub stats" /></a>
 
@@ -38,6 +38,3 @@ src="https://img.shields.io/twitter/follow/_JMNRA?logo=twitter&style=for-the-bad
 
 <a href="https://github.com/JMNRA" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMNRA&langs_count=10&title_color=64748b&text_color=f97316&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />

@@ -13,8 +13,7 @@
 ## Desarrollador IoT Fullstack
 
 🌍 I'm based in Perú<br>
-🚀 I'm currently working on [Joyan](http://joyan.cloud)<br>
-🧠 I'm learning Node.js, Nuxt 3, Nest.js<br>
+🚀 I'm currently working on [Joyan](https://joyan.dev)<br>
 🤝 I'm open to collaborating on IoT Projects
 
 <a href="https://www.github.com/JMNRA" target="_blank" rel="noreferrer"><img
